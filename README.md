@@ -7,10 +7,10 @@ Welcome to the GitHub Certifications Central hub, your one-stop destination for 
 
 | Certification                | Description                                           | Link                  |
 | ---------------------------- | ----------------------------------------------------- | --------------------- |
-| GitHub Foundations            | Foundational topics for collaborating on GitHub     | [GitHub Foundations](https://learn.microsoft.com/collections/mom7u1gzjdxw03?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) |
-| GitHub Actions               | Proficiency in automating workflows with Actions     | [GitHub Actions](#)    |
-| GitHub Advanced Security     | Expertise in code security and vulnerability control | [GitHub Advanced Security](#) |
-| GitHub Administration        | Optimizing and managing a healthy GitHub environment | [GitHub Administration](#) |
+| GitHub Foundations            | Foundational topics for collaborating on GitHub     | [GitHub Foundations](https://learn.microsoft.com/en-us/collections/o1njfe825p602p?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) |
+| GitHub Actions               | Proficiency in automating workflows with Actions     | [GitHub Actions](https://learn.microsoft.com/collections/n5p4a5z7keznp5?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352)    |
+| GitHub Advanced Security     | Expertise in code security and vulnerability control | [GitHub Advanced Security](https://learn.microsoft.com/collections/rqymc6yw8q5rey?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) |
+| GitHub Administration        | Optimizing and managing a healthy GitHub environment | [GitHub Administration](https://learn.microsoft.com/collections/mom7u1gzjdxw03?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) |
 
 ## Table of Contents
 
