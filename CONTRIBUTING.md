@@ -23,7 +23,7 @@ Before you start contributing, make sure you've forked this repository to your o
 1. Fork the repository.
 2. Clone your forked repository:
    ```sh
-   git clone https://github.com/your-username/GitHubCertifyHub.git
+   https://github.com/AnthonyByansi/GitHub_Certify.git
    ```
 3. Create a new branch for your work:
    ```sh
