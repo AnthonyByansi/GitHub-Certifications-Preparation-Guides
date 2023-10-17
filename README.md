@@ -1,4 +1,6 @@
 # GitHub Certifications Central Hub
+![Certification img](https://github.com/AnthonyByansi/GitHub_Certify/assets/101401469/837bbda6-363c-43d2-997d-c5e4802f9bcf)
+
 
 Welcome to the GitHub Certifications Central hub, your one-stop destination for mastering and preparing for the GitHub Certifications!. This repository is designed to help you prepare for and achieve the following GitHub certifications:
 ## Certifications
