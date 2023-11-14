@@ -1,3 +1,5 @@
+[![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-Completed-brightgreen)](https://learn.microsoft.com/en-us/collections/o1njfe825p602p?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-In%20Progress-yellow)](https://learn.microsoft.com/collections/n5p4a5z7keznp5?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) [![GitHub Advanced Security](https://img.shields.io/badge/GitHub%20Advanced%20Security-Not%20Started-lightgrey)](https://learn.microsoft.com/collections/rqymc6yw8q5rey?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) [![GitHub Administration](https://img.shields.io/badge/GitHub%20Administration-Not%20Started-lightgrey)](https://learn.microsoft.com/collections/mom7u1gzjdxw03?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352)
+
 # GitHub Certifications Central Hub
 ![Certification img](https://github.com/AnthonyByansi/GitHub_Certify/assets/101401469/837bbda6-363c-43d2-997d-c5e4802f9bcf)
 
@@ -33,10 +35,10 @@ Before you dive into the certifications, here's how you can get started:
 
 In addition to the certifications, this repository provides various resources to help you in your learning journey. You'll find:
 
-- **Sample Projects**: Practical projects to apply your knowledge.
-- **Study Guides**: In-depth guides for each certification.
-- **Q&A Forums**: Join discussions and ask questions related to the certifications.
-- **External Links**: Links to official GitHub certification pages and other helpful resources.
+- 📁 **Sample Projects**: Practical projects to apply your knowledge.
+- 📚 **Study Guides**: In-depth guides for each certification.
+- 💬 **Q&A Forums**: Join discussions and ask questions related to the certifications.
+- 🔗 **External Links**: Links to official GitHub certification pages and other helpful resources.
 
 ## Contributing
 
