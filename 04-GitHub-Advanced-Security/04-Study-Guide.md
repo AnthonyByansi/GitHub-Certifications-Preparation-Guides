@@ -68,4 +68,3 @@ gh team create myteam --org myorg
 - Take advantage of the resources available on GitHub's learning platform, GitHub Learning Lab.
 - Join study groups or forums where you can discuss topics and ask questions.
 - Take practice exams to assess your readiness.
-
