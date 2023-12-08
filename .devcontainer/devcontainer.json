@@ -1,0 +1,8 @@
+{
+    "image": "mcr.microsoft.com/vscode/devcontainers/typescript-node:0-14",
+    "forwardPorts": [3000],
+    "features": {
+      "ghcr.io/devcontainers/features/github-cli:1": {}
+    }
+  }
+  
