@@ -1,5 +1,3 @@
-[![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-Completed-brightgreen)](https://learn.microsoft.com/en-us/collections/o1njfe825p602p?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-In%20Progress-yellow)](https://learn.microsoft.com/collections/n5p4a5z7keznp5?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) [![GitHub Advanced Security](https://img.shields.io/badge/GitHub%20Advanced%20Security-Not%20Started-lightgrey)](https://learn.microsoft.com/collections/rqymc6yw8q5rey?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) [![GitHub Administration](https://img.shields.io/badge/GitHub%20Administration-Not%20Started-lightgrey)](https://learn.microsoft.com/collections/mom7u1gzjdxw03?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352)
-
 # GitHub Certifications Central Hub
 ![Certification img](https://github.com/AnthonyByansi/GitHub_Certify/assets/101401469/837bbda6-363c-43d2-997d-c5e4802f9bcf)
 
