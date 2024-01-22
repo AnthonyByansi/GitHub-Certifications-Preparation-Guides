@@ -37,4 +37,4 @@
 **Question:** How do you create a new team in GitHub?
 
 **Answer:** You can create a new team in GitHub using the `gh team create` command followed by the team name and organization. For example: `gh team create myteam --org myorg`
----
+
